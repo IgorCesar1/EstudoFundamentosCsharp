@@ -12,3 +12,18 @@ C:\Curso C#\ProjetoAulas\obj\Debug\net8.0\refint\ProjetoAulas.dll
 C:\Curso C#\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.pdb
 C:\Curso C#\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.genruntimeconfig.cache
 C:\Curso C#\ProjetoAulas\obj\Debug\net8.0\ref\ProjetoAulas.dll
+C:\dev\ProjetoNoGitHub\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.exe
+C:\dev\ProjetoNoGitHub\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.deps.json
+C:\dev\ProjetoNoGitHub\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.runtimeconfig.json
+C:\dev\ProjetoNoGitHub\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.dll
+C:\dev\ProjetoNoGitHub\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.pdb
+C:\dev\ProjetoNoGitHub\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ProjetoNoGitHub\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfoInputs.cache
+C:\dev\ProjetoNoGitHub\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfo.cs
+C:\dev\ProjetoNoGitHub\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.csproj.CoreCompileInputs.cache
+C:\dev\ProjetoNoGitHub\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.sourcelink.json
+C:\dev\ProjetoNoGitHub\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.dll
+C:\dev\ProjetoNoGitHub\ProjetoAulas\obj\Debug\net8.0\refint\ProjetoAulas.dll
+C:\dev\ProjetoNoGitHub\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.pdb
+C:\dev\ProjetoNoGitHub\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.genruntimeconfig.cache
+C:\dev\ProjetoNoGitHub\ProjetoAulas\obj\Debug\net8.0\ref\ProjetoAulas.dll

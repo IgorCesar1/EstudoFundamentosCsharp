@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso C#\\ProjetoAulas\\ProjetoAulas.csproj": {}
+    "C:\\dev\\ProjetoNoGitHub\\ProjetoAulas\\ProjetoAulas.csproj": {}
   },
   "projects": {
-    "C:\\Curso C#\\ProjetoAulas\\ProjetoAulas.csproj": {
+    "C:\\dev\\ProjetoNoGitHub\\ProjetoAulas\\ProjetoAulas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso C#\\ProjetoAulas\\ProjetoAulas.csproj",
+        "projectUniqueName": "C:\\dev\\ProjetoNoGitHub\\ProjetoAulas\\ProjetoAulas.csproj",
         "projectName": "ProjetoAulas",
-        "projectPath": "C:\\Curso C#\\ProjetoAulas\\ProjetoAulas.csproj",
+        "projectPath": "C:\\dev\\ProjetoNoGitHub\\ProjetoAulas\\ProjetoAulas.csproj",
         "packagesPath": "C:\\Users\\igor_\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso C#\\ProjetoAulas\\obj\\",
+        "outputPath": "C:\\dev\\ProjetoNoGitHub\\ProjetoAulas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

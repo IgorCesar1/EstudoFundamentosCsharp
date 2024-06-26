@@ -15,14 +15,7 @@ namespace Aplication
                //Aulaclasseselada();
               // AulaClasseAbstrata();
                TrabalhandoComStrings();
-        }       
-
-
-
-        private int Conta()
-        {
-            return 1+1;
-        }
+        } 
 
              private static void TrabalhandoComStrings()
              {
