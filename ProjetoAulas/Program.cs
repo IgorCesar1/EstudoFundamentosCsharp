@@ -17,6 +17,13 @@ namespace Aplication
                TrabalhandoComStrings();
         }       
 
+
+
+        private int Conta()
+        {
+            return 1+1;
+        }
+
              private static void TrabalhandoComStrings()
              {
                 var trabalhandoComStrings = new Modulo10.TrabalhandoComStrings();
