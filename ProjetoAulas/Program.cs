@@ -1,7 +1,9 @@
 ﻿// Console.WriteLine("Primeiro programa");
 
 
+using System.Data;
 using Cadastro;
+using Modulo11;
 
 namespace Aplication
 {
@@ -14,8 +16,52 @@ namespace Aplication
                // AulaHeranca();
                //Aulaclasseselada();
               // AulaClasseAbstrata();
-               TrabalhandoComStrings();
+               //TrabalhandoComDatas();
+                //AulasSubtraindoDatas();
+                //TrabalhandoComDatas();
+                TrabalhandoComExcecoes();
         } 
+
+
+             private static void AulasSubtraindoDatas()
+
+             {
+                var subtraindoDatas = new Modulo11.TrabalhandoComDatas();
+                //subtraindoDatas.AulasSubtraindoDatas();
+                //subtraindoDatas.AulaAdicionandoDiaMeseAno();
+                
+
+                
+        
+             }
+
+             
+
+             
+            private static void TrabalhandoComDatas()
+
+             {
+                var trabalhandocomdatas = new Modulo11.TrabalhandoComDatas();
+                //trabalhandocomdatas.AulaDateTime();
+                //trabalhandocomdatas.AulaadicionandohoraminutoeSegundos();
+                //trabalhandocomdatas.AulaDiaDaSemana();
+                //trabalhandocomdatas.AulaDateOnly();
+                //trabalhandocomdatas.AulaTimeOnly();
+
+                      
+             }
+
+             private static void TrabalhandoComExcecoes()
+             {
+
+               var trabalhandocomexcecoes = new Modulo12.TrabalhandoComExcecoes();
+               //trabalhandocomexcecoes.AulaGerandoException();
+               trabalhandocomexcecoes.AulatratandoException();
+
+             }
+            
+
+
 
              private static void TrabalhandoComStrings()
              {
@@ -28,11 +74,14 @@ namespace Aplication
                  //trabalhandoComStrings.AulaTrim();
                  // trabalhandoComStrings.AulaStartWithEndsWith();
                  //trabalhandoComStrings.AulaReplace();
-                 trabalhandoComStrings.AulaLength();
-
+                // trabalhandoComStrings.AulaLength();
 
 
              }
+
+
+             
+
              private static void Conversores()
              {
                 var conversores = new Conversores.Conversor();
